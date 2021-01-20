@@ -129,4 +129,3 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'Your Gmail ID'
 EMAIL_HOST_PASSWORD = 'Password'
-© 2021 GitHub, Inc.
